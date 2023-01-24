@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ConversorDeMedidas {
+public class Exercicio06 {
     public static void main(String[] args) {
         
         double medida, cm, mm;
