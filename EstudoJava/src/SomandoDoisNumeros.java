@@ -14,5 +14,7 @@ public class SomandoDoisNumeros {
         int soma = n1 + n2;
 
         System.out.printf("A soma de %d + %d é %d%n", n1, n2, soma);
+
+        scan.close();
     }
 }
