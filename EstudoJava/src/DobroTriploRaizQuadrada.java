@@ -21,5 +21,7 @@ public class DobroTriploRaizQuadrada {
         System.out.print("Dobro de " + numero + " é " + dobro + " \n");
         System.out.print("Triplo de " + numero + " é " + triplo + " \n");
         System.out.print("Raiz Quadrada de " + numero + " é " + raizQuadrada + " \n");
+
+        scan.close();
     }
 }
