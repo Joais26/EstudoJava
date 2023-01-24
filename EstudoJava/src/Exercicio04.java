@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DobroTriploRaizQuadrada {
+public class Exercicio04 {
     /**
      * @param args
      */
