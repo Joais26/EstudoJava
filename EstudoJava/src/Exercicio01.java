@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RespondendoAoUsuario {
+public class Exercicio01 {
     public static void main(String[] args) throws Exception {
 
         String nome;
