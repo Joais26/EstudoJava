@@ -8,5 +8,7 @@ public class RespondendoAoUsuario {
         System.out.print("Digite seu nome: ");
         nome = scan.nextLine();        
         System.out.printf("É um prazer em te conhece %s%n", nome);
+
+        scan.close();
     }
 }
