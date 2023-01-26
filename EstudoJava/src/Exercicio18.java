@@ -8,7 +8,7 @@ public class Exercicio18{
 
         double velocidadeMax = 80;
         double multa = 7;
-        double totalAPagar = (velocidade - velocidadeMax) * 7;
+        double totalAPagar = (velocidade - velocidadeMax) * multa;
 
         if (velocidade > velocidadeMax){
             System.out.print("Multado por excesso de velocidade\n");
